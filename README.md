@@ -7,9 +7,10 @@ Você foi convidado para participar do Desafio Almah, onde terá a oportunidade 
 **Escopo do Desafio:**
   Página a ser desenvolvida: **Home Page**.
   
-  Elementos obrigatórios: Header e Footer completos.
+  **Elementos obrigatórios: Header e Footer completos.**
   
   Referência de layout: Siga o design fornecido no Figma (https://www.figma.com/design/BtthksQi1eylKvA79Rhmr8/almah_loja?node-id=0-1&node-type=canvas&t=eTCnBSR1b1hj21x4-0) (**somente a home page**).
+  (obs: precisa ser idêntico ao figma)
   
   Base do projeto: Utilize o store-theme da VTEX como base para o desenvolvimento (https://almahpartnerbr.myvtex.com/admin).
   
